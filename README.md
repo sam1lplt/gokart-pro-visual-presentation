@@ -12,7 +12,7 @@ Proje, kullanıcı deneyimini artırmak amacıyla yüksek kaliteli görseller ve
 [![Ninebot Gokart PRO Görsel Tasarım](https://img.youtube.com/vi/qwCzS0Sh2Cg/0.jpg)](https://youtu.be/qwCzS0Sh2Cg)
 
 ---
-
+## Link: https://www.jebinde.com/detay/segway-ninebot-gokart-pro-elektrikli-scooter-91317
 ## Proje Detayları
 
 - **Teknolojiler:** HTML, CSS, Responsive Tasarım  
